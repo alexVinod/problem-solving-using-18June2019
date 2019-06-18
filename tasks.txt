@@ -1,0 +1,9 @@
+1. Count Divisors
+2. Factorial!
+3. Toggle String
+4. Palindromic String
+5. Prime Number
+6. 2 Strings
+7. Duration
+8. CharSum
+9. Play with Numbers
